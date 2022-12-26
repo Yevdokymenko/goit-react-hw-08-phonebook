@@ -30,7 +30,7 @@ const Contacts = () => {
         <AddingContactsForm />
       </PhonebookContainer>
       <ContactsContainer>
-        <ContactsTitle>Contacts</ContactsTitle>
+        <ContactsTitle>Contact List</ContactsTitle>
         <SearchingFilter />
         {isLoading && !error && <Loader />}
         <ContactsList />

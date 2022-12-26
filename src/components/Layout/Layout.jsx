@@ -26,7 +26,9 @@ const Layout = () => {
       <Footer>
         <FooterText>
           Created by{' '}
-          <FooterLink href="https://github.com/AlexKekc">AlexKekc</FooterLink>
+          <FooterLink href="https://github.com/Yevdokymenko">
+            YEVDOKYMENKO a.k.a. Mister Y
+          </FooterLink>
         </FooterText>
       </Footer>
     </Container>
