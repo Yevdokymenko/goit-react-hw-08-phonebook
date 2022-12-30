@@ -36,7 +36,7 @@ export const DeleteButton = styled.button`
   cursor: pointer;
   :hover,
   :focus {
-    background-color: ${p => p.theme.colors.red};
+    background-color: ${p => p.theme.colors.orange};
     color: ${p => p.theme.colors.white};
   }
 `;

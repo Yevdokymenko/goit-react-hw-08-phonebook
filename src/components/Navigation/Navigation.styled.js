@@ -24,6 +24,6 @@ export const Nav = styled(NavLink)`
   color: ${p => p.theme.colors.primaryText};
   :hover,
   :focus {
-    color: ${p => p.theme.colors.red};
+    color: ${p => p.theme.colors.orange};
   }
 `;
